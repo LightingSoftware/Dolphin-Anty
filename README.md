@@ -2,9 +2,7 @@
 
 ### What is 🐬Dolphin Anty?
 
-Dolphin Anty is a browser specifically designed for traffic arbitrage. It has features optimized for media purchasing, funneling, and multi-accounting in the crypto sphere. In addition, the browser
-
-offers features like mobile proxy IP switching, cookie automation, and teamwork solutions. It also has reliable browser fingerprint obfuscation technology and can generate trusted fingerprints.
+Dolphin Anty is a browser specifically designed for traffic arbitrage. It has features optimized for media purchasing, funneling, and multi-accounting in the crypto sphere. In addition, the browser offers features like mobile proxy IP switching, cookie automation, and teamwork solutions. It also has reliable browser fingerprint obfuscation technology and can generate trusted fingerprints.
 
 Dolphin Anty helps automate routine tasks and easily manage multiple browser profiles, making it an ideal tool for increasing online privacy and security, traffic arbitrage, and monitoring.
 
@@ -12,9 +10,7 @@ Dolphin Anty helps automate routine tasks and easily manage multiple browser pro
 
 Dolphin Anty works by using advanced techniques to avoid detection by websites. It does this by changing your browser’s fingerprint, which includes your browser version, operating system, and other
 
-identifying information. This makes it difficult for websites to track your activity or block your account. Dolphin Anty also has a built-in proxy manager that allows you to manage multiple proxies 
-
-at once, which further enhances your anonymity.
+identifying information. This makes it difficult for websites to track your activity or block your account. Dolphin Anty also has a built-in proxy manager that allows you to manage multiple proxies at once, which further enhances your anonymity.
 
 ### 💧Features of Dolphin Anty
 
