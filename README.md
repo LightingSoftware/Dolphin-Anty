@@ -8,9 +8,7 @@ Dolphin Anty helps automate routine tasks and easily manage multiple browser pro
 
 ### 💧How Does Dolphin Anty Work?
 
-Dolphin Anty works by using advanced techniques to avoid detection by websites. It does this by changing your browser’s fingerprint, which includes your browser version, operating system, and other
-
-identifying information. This makes it difficult for websites to track your activity or block your account. Dolphin Anty also has a built-in proxy manager that allows you to manage multiple proxies at once, which further enhances your anonymity.
+Dolphin Anty works by using advanced techniques to avoid detection by websites. It does this by changing your browser’s fingerprint, which includes your browser version, operating system, and other identifying information. This makes it difficult for websites to track your activity or block your account. Dolphin Anty also has a built-in proxy manager that allows you to manage multiple proxies at once, which further enhances your anonymity.
 
 ### 💧Features of Dolphin Anty
 
